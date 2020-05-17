@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Farm",
+    "slug": "Farm-meow-meow",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "87.87.877777",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.ntust.wnec.meowmeow",
+      "versionCode": 1
+    }
+  }
+}
